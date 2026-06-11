@@ -106,9 +106,11 @@ This plot highlights the most influential medical features affecting diabetes pr
 pip install numpy pandas matplotlib scikit-learn
 ```
 ### Run notebook
+```
 jupyter notebook
+```
 
-👩‍💻 Author
+### 👩‍💻 Author
 
 Shruti Singh
 B.Tech CSE (AI & ML)
